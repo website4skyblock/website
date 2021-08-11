@@ -1,0 +1,19 @@
+body{
+    background-color: burlywood;
+    margin: 0cm;
+}
+
+.banner{
+    width: auto;
+    height: 1cm;
+    background-color: crimson;
+    position: sticky;
+    top: 0cm;
+    text-align: center;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
